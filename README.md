@@ -1,8 +1,8 @@
-                                              ###Spam Detector
+                                                                         ### `Spam Detector`
                                               
-This project build by using flask , machine learning and reactjs
+This project build by using flask , machine learning and reactjs. Api is created by using Flask and FrontEnd is created by using Reactjs
 
-###Backend
+### `BackENd`
 1. build a env for flask and machine learning model
 2. install require modules like pandas,sklearn,numpy,flask,flask_restful
 3. put Model.py and spam.csv file into Scripts folderin python env
@@ -10,8 +10,7 @@ This project build by using flask , machine learning and reactjs
 5. run FLASK_APP=Model.py
 
 
-###FrontEnd
-  
+### `FrontEnd`
 
 ### `npm start`
 
