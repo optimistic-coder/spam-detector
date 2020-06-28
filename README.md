@@ -1,4 +1,4 @@
-                                                                         ### `Spam Detector`
+                                                                         ## `Spam Detector`
                                               
 This project build by using flask , machine learning and reactjs. Api is created by using Flask and FrontEnd is created by using Reactjs
 
